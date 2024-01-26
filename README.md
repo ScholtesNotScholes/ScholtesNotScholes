@@ -1,16 +1,27 @@
-### Hi there 👋
+# About me
 
-<!--
-**ScholtesNotScholes/ScholtesNotScholes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data scientist with a passion for extracting insights and patterns from complex data, and portraying them to decision makers to make a difference!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Key technical skills:
+
+- Python (Pandas, NumPy, Scikit-learn, PyMC, Matplotlib and Seaborn, among other packages)
+- R and RStudio
+- SQL
+- Power BI and Excel
+- Git
+
+### Key soft skills:
+
+- Great communicator
+- Highly motivated
+- Flexible and able to work in dynamic environments
+- Quick learner
+
+
+### Fun stuff:
+
+- Love living in Cardiff 🐲
+- Big football fan ⚽
+- Enjoy hiking in the hills (and the post-hike pint!) 🥾
+- Motivated by being able to make a difference 🌍
